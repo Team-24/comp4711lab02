@@ -17,3 +17,5 @@ application/logs/*
 /vendor/
 /nbproject/
 /lab2/nbproject/private/
+.gitignore
+.DS_Store
